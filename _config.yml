@@ -1,5 +1,5 @@
 theme: minima
-title: Gus's musing corner
+title: Gus's corner
 description: An idle collections of my thoughts on building security programs
 
 permalink: /:collection/:year-:month-:day-:title:output_ext
