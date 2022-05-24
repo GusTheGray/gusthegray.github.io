@@ -1,6 +1,6 @@
 theme: minima
 title: Gus's musing corner
-description: my musings on security, leadership, and security leadership
+description: An idle collections of my thoughts on building security programs
 
 permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
