@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Gus's musing corner
 description: my musings on security, leadership, and security leadership
+
+permalink: /:collection/:year-:month-:day-:title:output_ext
+show_excerpts: true
